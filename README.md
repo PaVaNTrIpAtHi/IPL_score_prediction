@@ -1,0 +1,2 @@
+# IPL_score_prediction
+IPL has been a huge success in India and the best cricket league in the world. Why not build something which can help us use our skills of machine learning. So, we created a score prediction web app which can predict score of an IPL team by getting some details like runs scored in 5 overs, wickets down and give us a range of the score that the score of the team would be in this range. We used flask for web development and generated the main page.
